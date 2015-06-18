@@ -12,7 +12,10 @@
         "phpmd": "php vendor/phpmd/phpmd/src/bin/phpmd hub/ text codesize,controversial,naming,unusedcode,design"
     },
     "autoload": {
-        "psr-4": {"FP\\Larmo\\": "hub/src/"}
+        "psr-4": {
+          "FP\\Larmo\\": "hub/src/",
+          "FP\\LarmoAgents\\BitBucket\\": "connectors/bitbucket/src/"
+        }
     },
     "require": {
         "phpunit/phpunit": "4.7",

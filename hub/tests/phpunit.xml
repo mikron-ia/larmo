@@ -3,5 +3,8 @@
         <testsuite name="All tests">
             <directory>./</directory>
         </testsuite>
+        <testsuite name="BitBucket agent">
+            <directory>../../connectors/bitbucket/tests</directory>
+        </testsuite>
     </testsuites>
 </phpunit>
