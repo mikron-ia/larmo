@@ -1,1 +1,3 @@
 .idea
+composer.lock
+config/parameters.php

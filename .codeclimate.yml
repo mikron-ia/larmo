@@ -1,7 +1,4 @@
 languages:
-  JavaScript: true
   PHP: true
-  Python: true
 exclude_paths:
- - hub/vendor/*
- - webapp/vendor/*
+ - vendor/*
