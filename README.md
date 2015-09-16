@@ -2,8 +2,8 @@
 
 [![Build Status](https://travis-ci.org/larmo-hub/larmo-server.svg?branch=master)](https://travis-ci.org/larmo-hub/larmo-server)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/larmo-hub/larmo-server/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/larmo-hub/larmo-server/?branch=master)
-[![Code Climate](https://codeclimate.com/github/adrianpietka/larmo/badges/gpa.svg)](https://codeclimate.com/github/adrianpietka/larmo)
-[![Test Coverage](https://codeclimate.com/github/adrianpietka/larmo/badges/coverage.svg)](https://codeclimate.com/github/adrianpietka/larmo/coverage)
+[![Code Climate](https://codeclimate.com/github/larmo-hub/larmo-server/badges/gpa.svg)](https://codeclimate.com/github/larmo-hub/larmo-server)
+[![Test Coverage](https://codeclimate.com/github/larmo-hub/larmo-server/badges/coverage.svg)](https://codeclimate.com/github/larmo-hub/larmo-server/coverage)
 
 ## What is it?
 
