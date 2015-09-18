@@ -18,7 +18,7 @@ script:
   - composer phplint
   - composer test
   - composer behat
-  - CODECLIMATE_REPO_TOKEN=a7a5144310e22363bc8314482209e3478e2d55b85cea9a6fcf3fb2b24df091f8 php vendor/codeclimate/php-test-reporter/composer/bin/test-reporter
+  - CODECLIMATE_REPO_TOKEN=aa47e5ba406229ca434f35bdd87232ccf2505acbeb554f8daaa5c7b2e5f97847 php vendor/codeclimate/php-test-reporter/composer/bin/test-reporter
 
 matrix:
   fast_finish: true
